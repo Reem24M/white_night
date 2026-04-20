@@ -20,7 +20,7 @@ import Profile from "@/features/profile/pages/profile";
 import About from "@/features/about/pages/about"; 
 import NotFound from "@/features/error"; 
 
-// import HallsDetails from "@/features/Hall/pages/hallDetails";
+// import HallDetails from "@/features/Hall/pages/hallDetails";
 export default function AppRoutes() {
   return (
     <Routes>
