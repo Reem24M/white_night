@@ -7,7 +7,7 @@ import AuthLayout from "../layouts/AuthLayout";
 
 import Home from "@/features/home/pages/home";
 import SearchPage from "@/features/search/pages/SearchPage";
-import HallDetails from "../../features/Hall/pages/hallDetails";
+import HallDetails from "../../features/hall/pages/hallDetails";
 import BookingPage from "../../features/booking/pages/bookingPage"; 
 
 import Login from "@/features/Auth/pages/login"; 
